@@ -10,7 +10,7 @@
 This OAuth 2.0 client library will work with Laravel Passport provider that conforms to the OAuth 2.0 Authorization Framework.
 
 ## Requirements
-* [Laravel](https://www.laravel.com)
+* [Laravel Passport](https://www.laravel.com)
 	* Dont forget, you need:
 		* Enable CORS
 		* Sessions config:
