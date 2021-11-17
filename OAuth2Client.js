@@ -77,7 +77,7 @@ const OAuth2Client = function(args) {
         },
 
         /**
-         * Inicia o processo de autorização transaparente para obtenção do código de acesso
+         * Inicia o processo de autorização transparente para obtenção do código de acesso
          * @returns {Promise<any>}
          */
         transparentLogin: async function() {
